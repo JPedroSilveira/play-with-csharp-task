@@ -7,7 +7,7 @@ namespace playWithCsharpTasks
 {
     class PlayTwo
     {
-        const int TASKS = 512;
+        const int TASKS = 1;
         const int CALC_UNTIL = 10000000;
         public static async Task Run()
         {

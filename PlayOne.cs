@@ -6,7 +6,7 @@ namespace playWithCsharpTasks
 {
     class PlayOne
     {
-        const int TASKS = 12;
+        const int TASKS = 1;
         public static async Task Run()
         {
             const int rounds = 50;
